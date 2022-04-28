@@ -1,0 +1,15 @@
+{
+    "name": "advanced-url-spammer-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.js"
+    },
+    "author": "AETHER",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^12.5.1",
+      "node-fetch": "^2.6.1"
+    }
+  }
